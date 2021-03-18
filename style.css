@@ -19,11 +19,13 @@ p body{
   background-color:violet;
   border:midnightblue;
   border-radius: 15px;
+  float:left;
 }
 .koktel{
     background-color:violet;
   border:midnightblue;
   border-radius: 15px;
+  float:right;
 }
 .start{
 background-color: yellow;
