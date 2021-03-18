@@ -1,13 +1,12 @@
 body{
-  
   text-aligh:center;
   background-color: yellow;
-  border-radius:10px;
+  border-radius:100px;
   border:indigo;
 }
 footer{
   text-aligh:center;
-  border-radius:10px;
+  border-radius:100px;
   background-color:orangered;
   border:indigo;
   
