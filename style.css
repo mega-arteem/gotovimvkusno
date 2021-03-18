@@ -1,5 +1,5 @@
 body{
-  text-aligh:center;
+  text-align: center;
   background-color: yellow;
   border-radius:100px;
   border:indigo;
@@ -10,9 +10,27 @@ footer{
   border-radius:100px;
   background-color:orangered;
   border:indigo;
-  text-aligh:center;
+  text-align: center;
 }
 p body{
     color:navy;
+}
+.blin{
+  background-color:violet;
+  border:midnightblue;
+  border-radius: 15px;
+}
+.koktel{
+    background-color:violet;
+  border:midnightblue;
+  border-radius: 15px;
+}
+.start{
+background-color: yellow;
+  text-align: center;
+  border:indigo;
+  background-color:violet;
+  border:midnightblue;
+  border-radius: 15px;
 }
   
