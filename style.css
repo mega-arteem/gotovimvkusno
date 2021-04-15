@@ -44,11 +44,10 @@ a{
   background-color:navy;
   color:white;
 }
-.stroka{
-  float:left; 
-}
 .byter{
   background-color:purple;
+  border-radius:15px;
+  text-aligh:center;
 }
 img{
 opacity:0.7;
